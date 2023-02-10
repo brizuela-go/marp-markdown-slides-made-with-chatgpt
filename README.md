@@ -1,4 +1,4 @@
-# Creating Presentations with Marpit Markdown and TailwindCSS using OpenAI's chatGPT
+# Creating Presentations with [Marpit Markdown](https://marpit.marp.app/) and [TailwindCSS](https://tailwindcss.com/) using OpenAI's [chatGPT](https://chat.openai.com/)
 
 ### Marpit Markdown is a markdown-based slide presentation framework, which can be used to create beautiful and interactive presentations. In this guide, we will show you how to use Marpit Markdown with TailwindCSS, which is a popular utility-first CSS framework, to create stunning presentations using OpenAI's chatGPT.
 
@@ -52,7 +52,7 @@ style: @import url('https://unpkg.com/tailwindcss@^2/dist/utilities.min.css'); #
 
 ## Step 4: Use the generated content in your presentation
 
-You can now use the generated content in your presentation by calling the generate_text function and adding the result to your markdown file.
+You can now use the generated content in your presentation by adding the result to your markdown file
 
 <br />
 
