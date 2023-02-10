@@ -7,7 +7,9 @@
 ## Prerequisites
 
 - You should have a basic understanding of markdown and CSS.
-- You should have an OpenAI API key, which can be obtained by signing up on their website.
+- You should have a basic understanding of how to use OpenAI's chatGPT.
+- You should have a basic understanding of how to use [Marp for VS Code](https://marketplace.visualstudio.com/items?itemName=marp-team.marp-vscode) to preview Marpit Markdown presentations.
+- You should have a basic understanding of how to use [TailwindCSS](https://tailwindcss.com/docs) to style HTML elements.
 
 <br />
 
