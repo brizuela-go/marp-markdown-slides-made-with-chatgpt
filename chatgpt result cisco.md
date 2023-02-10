@@ -8,7 +8,7 @@ class: invert
 
 # Recuperar el acceso restaurando la contraseña en un Router de Cisco 💻
 
-Brizuela González Juan Eduardo
+Brizuela Juan Eduardo
 Interconexión de Redes
 
 ---
